@@ -13,4 +13,4 @@ dt   = intervals between dispensing
 
 <img width="3132" height="4176" alt="image" src="https://github.com/user-attachments/assets/e09fcb53-921f-4617-b79e-99e7190f0efe" />
 
-<img width="12560" height="5920" alt="image" src="https://github.com/user-attachments/assets/d9202508-49dc-4f54-82e1-ace4f2bd2f38" />
+<img width="12560" height="5920" alt="image" src="https://github.com/user-attachments/assets/b6b934ae-39b3-49a8-994c-cd94c3906aa9" />
