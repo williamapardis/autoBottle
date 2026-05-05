@@ -1,10 +1,10 @@
 # autoBottle
 A automated solution dispensing system. 
 
-What I would like is somthing like:
+What I would like eventaully is a library where you can instantiate a pump class. somthing like:
 
 '''
-pump(addr, dv, dt)
+pump stockPump(addr, dv, dt);
 '''
 
 addr = pump address
