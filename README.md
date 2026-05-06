@@ -1,5 +1,5 @@
 # autoBottle
-A automated solution dispensing system. 
+A automated solution dispensing system. Built around a [Fisherbrand™ Reusable Glass Media Bottles](https://www.fishersci.com/shop/products/fisherbrand-reusable-glass-media-bottles-cap-13/FB8001000). The bottles come in various volumes (0.1-10 [L]) having interchangable Caps therefore making the autoBottle system consistent with any of the available volumes.
 
 What I would like eventaully is a library where you can instantiate a pump class. somthing like:
 
