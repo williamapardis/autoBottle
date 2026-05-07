@@ -29,3 +29,6 @@ pump stockPump(addr, dv, dt);
 addr = pump address
 dv   = volumes to dispense
 dt   = intervals between dispensing
+
+## Dependancies
+[Ezo_I2c_lib](https://github.com/Atlas-Scientific/Ezo_I2c_lib/tree/5140af60b780123e6b3c5bf0f444ceb0b6c4d4cd) is included as a [submodule](https://github.com/williamapardis/autoBottle/tree/main/software/firmware/dependancies) and is utilized for the I2C hardware interface of the pumps. 
